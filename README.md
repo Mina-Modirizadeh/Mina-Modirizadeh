@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Mina%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20/%20NLP%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Mina%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Retrieval-Augmented+Generation+(RAG)+systems;Designing+LangGraph-powered+conversational+agents;Persian+(Farsi)+NLP+%26+document+intelligence;FastAPI+%2B+Async+Python+%2B+Docker+%2F+self-hosted+infra" alt="Typing SVG" />
