@@ -9,23 +9,6 @@
 <a href="https://minamodirizadeh.ir"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
-<br/>
-
-```javascript
-const mina = {
-  role: "AI / NLP Software Engineer",
-  focus: [
-    "Retrieval-Augmented Generation (RAG) pipelines",
-    "LangGraph multi-node agentic systems",
-    "Persian (Farsi) NLP & document intelligence",
-    "FastAPI microservices, Python"
-  ],
-  currentlyBuilding: "production-grade RAG & agentic systems for Persian-language document retrieval",
-  languages: "English (C1 · CEFR)"
-};
-```
-
-<br/>
 
 ### 🧠 What I Work On
 
