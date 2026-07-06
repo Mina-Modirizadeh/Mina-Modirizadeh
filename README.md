@@ -15,13 +15,12 @@
 ---
 
 ### 🧠 What I Work On
-<br>
+
 - 🔍 **RAG Pipelines** — multi-collection vector search with Qdrant, hybrid dense + sparse retrieval, cross-encoder reranking, hierarchical chunking
 - 🤖 **Agentic Systems** — LangGraph-based conversational agents, role-aware tool access, observability & tracing
 - 🗣️ **Persian (Farsi) NLP** — RTL text reconstruction, ZWNJ normalization, OCR post-processing
 - ⚡ **Backend Engineering** — FastAPI microservices, async Python, Celery/Redis task pipelines
 - 🔐 **Applied Computer Vision** — Face recognition · document image analysis
-<br/>
 
 ---
 
