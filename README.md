@@ -14,77 +14,15 @@
 
 ---
 
+<br/>
 ### 🧠 What I Work On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<table>
-<tr><td valign="top" width="50" align="center">
-<span style="font-size:26px">🔍</span>
-</td><td valign="top">
-
-**RAG Pipelines**<br>
-<small style="color:#8b949e">Multi-collection vector search · Qdrant · hybrid dense+sparse retrieval · cross-encoder reranking · hierarchical chunking</small>
-
-</td></tr></table>
-
-<br>
-
-<table>
-<tr><td valign="top" width="50" align="center">
-<span style="font-size:26px">🤖</span>
-</td><td valign="top">
-
-**Agentic Systems**<br>
-<small style="color:#8b949e">LangGraph conversational agents · role-aware tool access · observability & tracing</small>
-
-</td></tr></table>
-
-</td>
-<td width="50%" valign="top">
-
-<table>
-<tr><td valign="top" width="50" align="center">
-<span style="font-size:26px">🗣️</span>
-</td><td valign="top">
-
-**Persian (Farsi) NLP**<br>
-<small style="color:#8b949e">RTL text reconstruction · ZWNJ normalization · OCR post-processing</small>
-
-</td></tr></table>
-
-<br>
-
-<table>
-<tr><td valign="top" width="50" align="center">
-<span style="font-size:26px">⚡</span>
-</td><td valign="top">
-
-**Backend Engineering**<br>
-<small style="color:#8b949e">FastAPI microservices · async Python · Celery/Redis task pipelines</small>
-
-</td></tr></table>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<table>
-<tr><td valign="top" width="50" align="center">
-<span style="font-size:26px">🔐</span>
-</td><td valign="top">
-
-**Applied Computer Vision**<br>
-<small style="color:#8b949e">Face recognition · document image analysis</small>
-
-</td></tr></table>
-
-</td>
-</tr>
-</table>
+ 
+- 🔍 **RAG Pipelines** — multi-collection vector search with Qdrant, hybrid dense + sparse retrieval, cross-encoder reranking, hierarchical chunking
+- 🤖 **Agentic Systems** — LangGraph-based conversational agents, role-aware tool access, observability & tracing
+- 🗣️ **Persian (Farsi) NLP** — RTL text reconstruction, ZWNJ normalization, OCR post-processing
+- ⚡ **Backend Engineering** — FastAPI microservices, async Python, Celery/Redis task pipelines
+- 🔐 **Applied Computer Vision** — Face recognition · document image analysis
+<br/>
 
 ---
 
